@@ -1335,6 +1335,7 @@ MonoBehaviour:
   inactivePlayerColor:
     panelColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
     textColor: {r: 0, g: 0.19607843, b: 0.9411765, a: 1}
+  startInfo: {fileID: 1770217257}
 --- !u!4 &719763886
 Transform:
   m_ObjectHideFlags: 0
